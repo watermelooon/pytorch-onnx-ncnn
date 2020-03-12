@@ -90,3 +90,11 @@ else()
     message(WARNING "OpenCV not found, examples won't be built")
 endif()
 ```
+  
+At last  
+```
+>cmake  
+>mkdir build
+>cd build
+>nmake
+```
